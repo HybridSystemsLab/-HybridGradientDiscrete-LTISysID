@@ -65,20 +65,7 @@ modificatorJ3{9} = 'b';
 modificatorJ3{10} = 'MarkerSize';
 modificatorJ3{11} = 2;
 
-modificatorJ4{1} = 'g:';
-modificatorJ4{2} = 'LineWidth';
-modificatorJ4{3} = 2;
-modificatorJ4{4} = 'Marker';
-modificatorJ4{5} = '.';
-modificatorJ4{6} = 'MarkerEdgeColor';
-modificatorJ4{7} = 'g';
-modificatorJ4{8} = 'MarkerFaceColor';
-modificatorJ4{9} = 'g';
-modificatorJ4{10} = 'MarkerSize';
-modificatorJ4{11} = 2;
-
 figure(3)
-%clf;
 tlt = tiledlayout(2,1);
 nexttile(1)
 hold on; plot(0,'c'); plot(0,'r'); plot(0,'b'); plot(0,'g'); hold off;
